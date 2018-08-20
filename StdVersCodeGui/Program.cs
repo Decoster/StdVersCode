@@ -11,7 +11,7 @@ namespace StdVersCodeGui
 		/// <summary>
 		/// Point d'entrée principal de l'application.
 		/// </summary>
-		[STAThread]
+		[STAThread] 
 		static void Main()
 		{
 			Application.EnableVisualStyles();
