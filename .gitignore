@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/StdVersCode/bin/Debug
+/StdVersCode/obj
+/StdVersCodeGui/bin/Debug
+/StdVersCodeGui/obj
